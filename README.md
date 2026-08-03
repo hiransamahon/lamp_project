@@ -1,15 +1,4 @@
 # Automatic Brightness Control LED Lamp for Reading
-
-**EE3204 – Engineering System Design | Semester 03**
-**Department of Electrical Engineering, University of Moratuwa**
-
-### Team Members – G23
-| Name | Index No. |
-|---|---|
-| R A H D Rupasinghe | 230553D |
-| H S Samahon | 230560V |
-| W A K E Sameekshika | 230568D |
-
 ---
 
 ## Table of Contents
