@@ -155,9 +155,3 @@ This project successfully developed a simulation model of an intelligent table l
 This project demonstrates the importance of simulation in early-stage design. Simulation made it possible to test system behavior and validate control logic without the cost and complexity of physical hardware. The developed model provides a strong foundation for future improvements and real-world implementation.
 
 ---
-
-<p align="center">
-  <img src="images/university_logo.png" alt="University of Moratuwa" width="80"/>
-  &nbsp;&nbsp;
-  <img src="images/ee_dept_logo.png" alt="Department of Electrical Engineering" width="80"/>
-</p>
